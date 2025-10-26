@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "name": "Amazon Spain",
+      "base_url": "https://www.amazon.es/-/en/deals",
+      "marketplace_id": "A1RKKUPIHCS9HS",
+      "categories": [
+        "Gaming & Accessories"
+      ],
+      "scrape_all": false
+    },
+    {
+      "name": "Amazon Germany",
+      "base_url": "https://www.amazon.de/-/en/deals",
+      "marketplace_id": "A1PA6795UKMFR9",
+      "categories": [
+        "Gaming & Accessories"
+      ],
+      "scrape_all": false
+    }
+  ]
+}

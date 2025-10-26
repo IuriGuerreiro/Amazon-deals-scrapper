@@ -1,0 +1,4 @@
+playwright
+discord.py>=2.3.0
+motor
+python-dotenv
